@@ -1,9 +1,6 @@
 <img align="right" src="https://sun9-22.userapi.com/T0ZheeSi9Dj_tD2wx2l8c1z8iBQL0BZbce1_mA/i22y12TRFGU.jpg" alt="Меня легко узнать" width=350px height=350px/>
 
-
 ### Привет, меня зовут Максим. Чаще всего меня узнают как «CleFer»
-
-Here are some ideas to get you started:
 
 - 🔭 Работаю над [HelpGC](https://github.com/CleFerMy/helpgc), [Bunny](https://github.com/CleFerMy/bunny)+[Bunny_back](https://github.com/CleFerMy/bunny_back) парочкой других проектов
 - 🌱 Знаю PHP, JS
