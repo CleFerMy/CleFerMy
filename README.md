@@ -2,7 +2,7 @@
 
 ### Привет, меня зовут Максим. Чаще всего меня узнают как «CleFer»
 
-- 🔭 Работаю над [HelpGC](https://github.com/CleFerMy/helpgc), [Bunny](https://github.com/CleFerMy/bunny)+[Bunny_back](https://github.com/CleFerMy/bunny_back) парочкой других проектов
+- 🔭 Работаю над [HelpGC](https://github.com/CleFerMy/helpgc), [Bunny](https://github.com/CleFerMy/bunny)+[Bunny_back](https://github.com/CleFerMy/bunny_back) и парочкой других проектов
 - 🌱 Знаю PHP, JS
 - 💬 Спросите меня о том, что будет завтра
 - 📫 Для связи со мной: [VK](https://vk.com/clefer), [Telegram](https://t.me/clefer)
