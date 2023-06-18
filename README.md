@@ -1,9 +1,15 @@
-<img align="right" src="https://sun9-22.userapi.com/T0ZheeSi9Dj_tD2wx2l8c1z8iBQL0BZbce1_mA/i22y12TRFGU.jpg" alt="Меня легко узнать" width=350px height=350px/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62)
 
 ### Привет, меня зовут Максим. Чаще всего меня узнают как «CleFer»
 
-- 🔭 Работаю над [HelpGC](https://github.com/CleFerMy/helpgc), [Bunny](https://github.com/CleFerMy/bunny)+[Bunny_back](https://github.com/CleFerMy/bunny_back) и парочкой других проектов
+- 🔭 Веду активную работу над медицинским порталом и парочкой других проектов
 - 🌱 Знаю PHP, JS
 - 💬 Спросите меня о том, что будет завтра
-- 📫 Для связи со мной: [VK](https://vk.com/clefer), [Telegram](https://t.me/clefer)
-- ⚡ Факт: нравятся хомяки
+- ⚡ Факт: нравятся грызуны
+
+<p align="left">
+<a href="https://t.me/clefer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="narllkx" height="30" width="40" /></a>
+<a href="https://vk.com/clefer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="narllkx" height="35" width="35" /></a>
+</p>
+
+![Snake animation](https://github.com/CleFerMy/CleFerMy/blob/output/github-contribution-grid-snake.svg)
