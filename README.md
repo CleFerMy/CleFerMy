@@ -12,4 +12,4 @@
 <a href="https://vk.com/clefer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="narllkx" height="35" width="35" /></a>
 </p>
 
-![Snake animation](https://github.com/CleFerMy/CleFerMy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/CleFerMy/CleFerMy/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
